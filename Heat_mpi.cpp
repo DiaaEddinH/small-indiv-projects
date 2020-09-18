@@ -1,4 +1,4 @@
-// Test.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Heat_mpi.cpp : Using MPI to parallelise the two-dimensional heat equation in C++.
 //
 
 #include <iostream>
