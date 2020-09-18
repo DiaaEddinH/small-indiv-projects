@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+// Attempt at making a primitive "database", practicing data structures and pointer use
 struct animal
 {
 	int age;
